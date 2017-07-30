@@ -1,0 +1,24 @@
+{
+  "name": "node_chat_app",
+  "version": "1.0.0",
+  "description": "Node and Socket Chat App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debottam31/Node_Chat_App.git"
+  },
+  "keywords": [
+    "node",
+    "chat",
+    "app"
+  ],
+  "author": "debottam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debottam31/Node_Chat_App/issues"
+  },
+  "homepage": "https://github.com/debottam31/Node_Chat_App#readme"
+}
